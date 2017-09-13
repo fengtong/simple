@@ -1,1 +1,3 @@
-com.itfeng.micro.active=dev
+com:
+  itfeng:
+    micro.active: dev
