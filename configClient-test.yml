@@ -1,1 +1,4 @@
-com.itfeng.micro.active=test
+com:
+  itfeng:
+    micro:
+      active: test
