@@ -1,3 +1,4 @@
 com:
   itfeng:
-    micro.active: dev
+    micro:
+      active: dev
