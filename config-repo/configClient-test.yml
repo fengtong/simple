@@ -2,3 +2,4 @@ com:
   itfeng:
     micro:
       active: test
+profile: profile_test
